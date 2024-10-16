@@ -1,9 +1,11 @@
+
+# Need to upload updating camera code....
+
 # Fish Tracking and Inactivity Detection
 
 ## Overview
 
 This script uses the YOLO object detection model to track fish in a video and log instances of inactivity. The code detects fish, tracks their positions, and identifies if any fish remain inactive for a specified duration. It then logs these instances to a file and highlights inactive fish in the video output.
-
 
 ## To Do
 - Train a better model for higher detection rates
